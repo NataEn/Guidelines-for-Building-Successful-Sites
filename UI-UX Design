@@ -1,0 +1,19 @@
+ CLEAN AND SIMPLE
+1) Establishing Visual Hierarchy 
+
+- Define where user will look first
+- Define main message 
+- Formulate a flow that corresponds to the content's message == lead the user where you want him/her to go
+- Decide the relationship between each section and use whitespace to represent that
+
+2) ICONs
+- used as guides for content points
+- are always labled
+- use vector icons (scalable) not static images
+
+3) Images
+- use SVG pictures as much as possible instead of just simple colors and static images
+
+4) Fonts
+- Bigger font--> smaller font size
+- preffere sans serif
